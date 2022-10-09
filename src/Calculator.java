@@ -5,6 +5,7 @@ public class Calculator {
         sumNumbers(5, 6);
     }
 
+    // w kolejnej wersji zaprogramować odejmowanie
     public static void sumNumbers (int number1, int number2) {
         int sum = number1 + number2;
         System.out.println(sum);
